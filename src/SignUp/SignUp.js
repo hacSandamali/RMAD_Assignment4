@@ -21,7 +21,7 @@ class SignUp extends Component {
         <Image style={styles.logoIcon} source={googleLogo}/>
         <Image style={styles.logoIcon} source={facebookLogo}/>
         <Image style={styles.logoIcon} source={appleLogo}/>
-        <Text>or register with email...</Text>
+        <Text>or register with email........</Text>
         <TextInput style={styles.input} placeholder='@ Email ID'/>
         <TextInput style={styles.input} placeholder='@ Password'/>
         <TextInput style={styles.input} placeholder='@ Full Name'/>
